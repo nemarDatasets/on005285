@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on005285-blue)](https://doi.org/10.82901/nemar.on005285)
+
 1.Study introduction:
 Firstly, participants underwent a series of laser stimulations of varying intensities. The experimenters determined the energy intensities corresponding to average scores of 4 and 7 points among the participants. Subsequently, each participant received a fixed-intensity laser stimulation approximately every 20 seconds, constituting one block of 40 trials, with half being high intensity and half low intensity. There were a total of 4 blocks, resulting in 160 stimulations in total. During this period, participants provided pain ratings ranging from 0 to 10. A rating of 0 indicated no sensation, 4 denoted the onset of pain perception, 6 represented moderate pain, 8 indicated severe pain, and 10 signified intolerable pain.
 2.Participant task information(description of the experiment):
